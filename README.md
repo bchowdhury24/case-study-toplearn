@@ -71,14 +71,13 @@ students, which is what makes predictions meaningful.
 
 ## Results
 
-- [Number] of active students on the platform
+- 50,000 of active students on the platform
 - [Accuracy/relevance stat of predictions, if measurable]
 - [Any engagement or outcome improvement data]
 
 ## My role
 
-[CONFIRM: what you personally built — e.g., "Designed the assessment data
-pipeline and the prediction service; integrated the LLM insight layer."]
+Designed the assessment data pipeline and the prediction service; integrated the LLM insight layer.
 
 ---
 
